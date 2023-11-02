@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-loops-domain
+friendly_name: Loops Domain
+description: Configures your AWS Domain for sending Loops emails
+category: block
+subcategory: ""
+provider_types:
+    - aws
+platform: loops
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
